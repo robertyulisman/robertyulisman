@@ -1,8 +1,8 @@
-MERN Fullstack
+MERN Fullstack Developer
 
 # Robert Yulisman
 
-Hi, I'm Robert Yulisman , i'm a freelancer fullstack web developer. I live in Padang Panjang, West of Sumatera, Indonesia. I'm fullstack Web Developer with Node JS as backend and React Native as front end.
+Hi, I'm Robert Yulisman , i'm a freelancer MERN Fullstack Developer. I live in Padang Panjang, West of Sumatera, Indonesia. I'm MERN Fullstack Developer with Node JS as backend and React Native as front end.
 
 ## Github Performance Overall
 
