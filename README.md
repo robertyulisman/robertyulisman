@@ -6,7 +6,7 @@ Hi, I'm Robert Yulisman , i'm a freelancer MERN Fullstack Developer. I live in P
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=robertyulisman&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/robertyulisman?cardType=octocat&theme=monokai&preferLogin=false&Background=000000&Title=DDD1BB)](https://git.io/awesome-stats-card)
 
 ## Current activity
 
